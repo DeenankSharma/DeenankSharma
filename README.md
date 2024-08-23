@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeenankSharma
-- 👀 I’m interested in Developing projects
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on Backend Development
+- 👀 I Am IRONMAN
+- 🌱 I’m currently exploring GoLang
+- 💞️ I’m looking forward to collaborating on new projects and meeting great peers along the way !!!
 - 📫 How to reach me ...through X (https://x.com/DeenankSha40869), LinkedIn (https://www.linkedin.com/in/deenank-sharma-37b321282/) and Email (sharmadeenank@gmail.com)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love Pokemon and Cinema
