@@ -1,105 +1,115 @@
 <div align="center">
+  <!-- Minimalist Custom Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e293b&height=140&section=header&text=Deenank%20Sharma&fontSize=38&fontColor=f8fafc&fontAlignY=42&desc=Electronics%20%26%20Communication%20Engineering%20%E2%80%A2%20IIT%20Roorkee&descSize=15&descAlignY=68&descColor=94a3b8" width="100%" alt="Header Banner" />
 
-[![GitHub Banner](https://svg-banners.vercel.app/api?type=glitch&text1=%20Deenank_Sharma&width=800&height=150)](https://github.com/DeenankSharma)
+  <!-- Subtle Animated Subtitle -->
+  <a href="https://github.com/DeenankSharma">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=650&lines=VLSI+%26+In-Memory+Computing+Architectures;Full-Stack+Systems+%26+Cross-Platform+Engineering;Hardware-Software+Co-Design+%26+EDA+Toolchains;Embedded+Systems+%26+Signal+Processing" alt="Typing SVG" />
+  </a>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2D9596&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;ECE+Enthusiast+%F0%9F%94%8C;Cinephile+%F0%9F%8E%AC;Pok%C3%A9mon+Master+%E2%9A%A1" alt="Typing SVG" /></a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://twitter.com/deenanksha40869" target="_blank">
-    <img width="120px" src="https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/deenank-sharma-37b321282" target="_blank">
-    <img width="130px" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/deenanksharma" target="_blank">
-    <img width="140px" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:sharmadeenank@gmail.com" target="_blank">
-    <img width="100px" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/>
-  </a>
-</div>
-<br/>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deenanksharma&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
+  <br/><br/>
 
-<br/>
-
-## 🎯 **Currently Building**
-
-<div align="center">
-  <a href="https://github.com/DeenankSharma/Suraksha_App">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Suraksha%20App-42b883?style=for-the-badge&logo=rocket&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DeenankSharma/CryptoOlympia">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Crypto%20Olympia-161b22?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  </a>
+  <!-- Clean, Muted Contact Links -->
+  <p>
+    <a href="https://linkedin.com/in/deenank-sharma-37b321282" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:sharmadeenank@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=f87171" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/deenanksha40869" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-0f172a?style=flat-square&logo=x&logoColor=cbd5e1" alt="Twitter" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/deenanksharma" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-0f172a?style=flat-square&logo=instagram&logoColor=c084fc" alt="Instagram" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
-## 🛠️ **Tech Arsenal** 
+### About
 
-<div align="center">
+I am a senior undergraduate in **Electronics and Communication Engineering** at **IIT Roorkee** (Class of 2027), working across the boundary of silicon architecture and software systems. My work centers on **In-Memory Computing (IMC)**, **EDA compiler toolchains**, and **microelectronic circuit design**, paired with a strong foundation in full-stack and mobile engineering. 
 
-**Frontend Magic 🎨**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,flutter,tailwind,sass,html,css,javascript" />
-</p>
-
-**Backend Power 💪**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,go,php" />
-</p>
-
-**Database Masters 🗄️**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,oracle" />
-</p>
-
-**Tools & More 🔧**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,firebase,figma,linux,vscode" />
-</p>
-
-</div>
-
-## 📊 **GitHub Magic**
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=deenanksharma&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=deenanksharma&theme=radical&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deenanksharma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</p>
-
-## 🎯 **Current Focus**
-
-<div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Learning%20Web3-gold?style=for-the-badge&logo=blockchain&logoColor=black"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Building%20Apps-blue?style=for-the-badge&logo=rocket&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Mastering%20Flutter-teal?style=for-the-badge&logo=flutter&logoColor=white"/>
-</div>
+Previously, I interned with the engineering team at **NVIDIA** (Bangalore) and presented research at **ISVLSI**. Whether I am characterizing standard cells in Virtuoso, building custom compilers for analog compute arrays, or shipping cross-platform applications in Flutter and Go, I enjoy engineering systems from the transistor level up to the user interface.
 
 <br/>
 
-## 💫 **Fun Facts**
+### Technical Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Silicon, VLSI & Embedded</b>
+      <br/><br/>
+      <ul>
+        <li><b>EDA & TCAD:</b> Cadence (Virtuoso, Genus, Innovus), Synopsys Sentaurus (Sprocess, Sdevice)</li>
+        <li><b>Hardware & PCB:</b> Verilog / SystemVerilog, Altium Designer, ESP32, Arduino, I2C/SPI</li>
+        <li><b>Research Focus:</b> SRAM-based Analog IMC, Binary Neural Networks (BNNs), Non-Volatile Memories</li>
+        <li><b>Simulation & Math:</b> MATLAB, PyTorch (Crossbar Array Modeling), SPICE</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>Software & Systems Engineering</b>
+      <br/><br/>
+      <ul>
+        <li><b>Languages:</b> C++, Python, TypeScript, JavaScript, Go, Dart, SQL</li>
+        <li><b>Frontend & Mobile:</b> Flutter (BLoC), React, Next.js, Tailwind CSS</li>
+        <li><b>Backend & Data:</b> Node.js, Express, Django, Flask, PostgreSQL, MongoDB, Redis</li>
+        <li><b>DevOps & Tools:</b> Linux, Docker, Git, Firebase, Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Selected Projects & Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/DeenankSharma">Analog CIM Compiler Framework</a></h4>
+      <p>Developed a compiler toolchain mapping neural network workloads onto SRAM-based analog Computing-in-Memory (CIM) crossbar architectures within an open-source EDA flow.</p>
+      <p><code>Python</code> <code>PyTorch</code> <code>EDA</code> <code>IMC Architecture</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/DeenankSharma/Suraksha_App">Suraksha</a></h4>
+      <p>A mobile emergency response and personal safety application engineered with reactive state management, persistent local logging, and real-time alert routing.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>BLoC Pattern</code> <code>REST APIs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/DeenankSharma/CryptoOlympia">CryptoOlympia</a></h4>
+      <p>Full-stack web platform for tracking, simulating, and analyzing decentralized asset portfolios with real-time market telemetry and clean data visualization.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Web3</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/DeenankSharma">Wireless Fading & Diversity Simulator</a></h4>
+      <p>Modeled and benchmarked Selection Combining (SC) and Maximal Ratio Combining (MRC) receiver architectures across Rayleigh and Nakagami-<i>m</i> fading channels.</p>
+      <p><code>MATLAB</code> <code>Information Theory</code> <code>Signal Processing</code></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Activity & Telemetry
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Pokémon%20Master-yellow?style=for-the-badge&logo=pikachu&logoColor=black"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Movie%20Buff-purple?style=for-the-badge&logo=film&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Tech%20Explorer-green?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deenanksharma&count_private=true&show_icons=true&theme=nord&hide_border=true&bg_color=0f172a&title_color=94a3b8&text_color=cbd5e1&icon_color=38bdf8" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deenanksharma&layout=compact&theme=nord&hide_border=true&bg_color=0f172a&title_color=94a3b8&text_color=cbd5e1&langs_count=6" alt="Top Languages" />
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/deenanksharma/count.svg" alt="Visitor Count"/>
-</div>
-
+  <sub>Built and maintained by <b>Deenank Sharma</b> &bull; Roorkee, India</sub>
 </div>
